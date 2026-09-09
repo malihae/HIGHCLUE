@@ -1,0 +1,6 @@
+{
+  "name": "HighClue",
+  "description": "AI Career Discovery & Learning platform for students aged 11–17 to explore fields, courses, and future pathways before choosing high school streams or college majors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
